@@ -142,6 +142,6 @@ npm run dev
 [**Luís Gabriel Marchió Batista**](https://www.linkedin.com/in/lu%C3%ADs-gabriel-marchi%C3%B3-batista-a0aa64206/) - **Linkedin**
 
 <p align="center">
-  <img src=".github/ignite-nodejs.png" width="350" title="Luís Gabriel - Trilha Node.js Ignite">
+  <img src=".github/ignite-nodejs.png" width="650" title="Luís Gabriel - Trilha Node.js Ignite">
 </p>
 
