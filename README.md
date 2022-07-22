@@ -5,7 +5,7 @@
     
 - **NodeJS** + **Typescript**
 
-- This API was built for a fictitious **car rental** company - **RentX**, during the **Ignite - NodeJS Trail** course by [**Rocketseat**](https://github. com/Rocketseat).
+- This API was built for a fictitious **car rental** company - **RentX**, during the **Ignite - NodeJS Trail** course by [**Rocketseat**](https://github.com/Rocketseat).
 
 ## 📋 Business Rules and Requirements
 ### Car registration
